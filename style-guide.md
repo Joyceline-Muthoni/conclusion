@@ -46,4 +46,4 @@ Use transparency to get the colour variations necessary to match the design. Hin
 ### Font
 
 - Family: [Hanken Grotesk](https://fonts.google.com/specimen/Hanken+Grotesk)
-- Weights: 500, 700, 800
+- Weights: 500, 700, 800  -
